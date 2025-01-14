@@ -41,6 +41,6 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ### ✨ Fun Quote:
-> "Simplicity is the soul of efficiency." – Austin Freeman
+> "Simplicity is the soul of efficiency." 
 
 Feel free to explore my repositories and connect with me for exciting collaborations!
