@@ -1,3 +1,6 @@
+![image](https://media.licdn.com/dms/image/v2/D5616AQGldHRZkWAKvw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736841774864?e=1742428800&v=beta&t=kohDyCWPEiHPgmfu4AF-0ecmu9wkbhhWGXxWAscXato)
+
+
 # Hi there, I'm Akshata Laxman! 👋
 
 Welcome to my GitHub profile! Here's a little about me:
